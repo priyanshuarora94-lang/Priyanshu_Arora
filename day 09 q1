@@ -1,0 +1,16 @@
+/* 100 days code; Day 9: code1*/
+#include<stdio.h>
+int main()
+{
+	printf("Mayank Singh\nSAP ID: 590026159\nCourse: BSc. CS. \nBatch: 1");
+	printf("\n-----------------\n");
+	int n, i, c=1;
+	printf("Enter the number: "); scanf("%d", &n);
+	for(i=1; i<=n; i++)
+	{
+		c=c*i;
+	}
+	printf("The factorial is: %d", c);
+	return 0;
+}
+}
