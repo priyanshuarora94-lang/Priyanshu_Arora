@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Mayank Singh\nSAP ID: 590026159\nCourse: BSc. CS. \nBatch: 1");
+	printf("Priyanshu Arora\nSAP ID: 590020080\nCourse: bca. . \nBatch: 4");
 	printf("\n-----------------\n");
 	int a, b=0, c;
 	printf("Enter the number: "); scanf("%d", &a);
